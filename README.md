@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hendrick-constant/hendrick-constant/output/snake.svg" alt="Snake animation" />
-
-###
